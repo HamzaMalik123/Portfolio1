@@ -24,7 +24,7 @@ function projects() {
           imageURL={Portfolio}
           alt="card"
           text="Portfolio"
-          link="https://github.com/iamkashifkhn/portfolio1"
+          link="https://github.com/HamzaMalik123/Portfolio1"
           subtext="Portfolio is my updated person portfolio website which is build by heart. It is open source and you are free to use the code as well from the Github link."
           tech="HTML5, CSS3, AntD, React"
         />
